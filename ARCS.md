@@ -25,7 +25,7 @@ Konsti is here for the first time. He's discovering the yard, finding the Bauwag
 
 - [ ] Strip 1 — Konsti lands somewhere on the yard for the first time. Takes it all in. Ear tufts up.
 - [ ] Strip 2 — Konsti explores. Finds the hornveilchen. Peers at them. Very interesting.
-- [ ] Strip 3 — Konsti finds the Bauwagen window. Hops onto the sill. Looks out. This is it.
+- [x] Strip 3 — Konsti finds the Bauwagen window. Hops onto the sill. Looks out. This is it. *(12 March 2026 — afternoon, partly cloudy, wet surfaces from morning rain, condensation on window edges, bare trees in background, hornveilchen patch barely visible near broken pots)*
 - [ ] Strip 4 — Konsti settles in on the sill. Something about his posture says: *yes. this.*
 - [ ] Strip 5 — The toolshed for the first time. He stands in the doorway. Takes a very long look inside.
 
@@ -57,7 +57,7 @@ Konsti sits on his windowsill. That's it. That's the arc. But every image is sli
 
 This arc is a **slow, ongoing series** that runs in parallel with everything else. It is the breathing room. It is Konsti being at home.
 
-- [ ] Strip — Konsti sits on the sill in the grey morning light of a cold March day. First time.
+- [x] Strip — Konsti sits on the sill in the grey morning light of a cold March day. First time. *(12 March 2026 — combined with Arc 1 Strip 3, afternoon light, partly cloudy, first arrival at the windowsill)*
 - [ ] Strip — Evening. The light is going golden somewhere though the window. Konsti is watchful.
 - [ ] Strip — Rain against the window. Konsti watches the drops run down the glass.
 - [ ] Strip — Something on the yard outside has caught Konsti's attention. We don't see what.
