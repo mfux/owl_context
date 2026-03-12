@@ -8,14 +8,21 @@
 ## Current Season
 
 **Date:** 12 March 2026
-**Location:** Rodgau, Germany
+**Location:** Rodgau, Germany (Hessen)
 **Season:** Late winter / very early spring
 
-The trees are still bare. There is no mistaking it for any other time of year — the branches are dark lines against a pale sky and the yard has that particular grey quietness of a cold German March. But underneath, something is shifting. The days are a little longer than they were. The light in the afternoon has a warmth to it that January didn't have.
+**Today's weather:**
+- Early morning: 4°C, patches of fog blanketing the Schrottplatz, 100% humidity, near-still air (6 km/h westerly). Visibility around 7 km.
+- The fog lifts as the morning progresses. By 9 AM the sky is clear and sunny — 8°C.
+- Midday to afternoon: A surprisingly warm and sunny day for March. 11–13°C, almost no clouds, gentle southwest wind.
+- Evening: Clear, cooling to 8°C. A waning crescent moon (44% illumination) hangs faintly in the early night sky.
+- Sunrise: 6:45 AM. Sunset: 6:24 PM. The days are visibly longer than a month ago.
 
-The hornveilchen at the base of the broken flower pots are probably already poking up. They are that kind of flower. The rest of the yard is still winter: cold ground, no insects yet, the occasional crow in the distance.
+The trees are still bare. The branches are dark lines against the sky — but today that sky is blue, not the usual flat March grey. It is one of those early spring days that feels like a gift. The ground is cold but the sun on metal and glass has real warmth in it. The Schrottplatz smells of damp earth and warming rust.
 
-The cold is real but not brutal. It's the kind of cold where you hunch your shoulders a little when you step outside, but you don't dread it. Konsti, for his part, is puffed up in that comfortable way young owls are in cool weather — not miserable, just well-insulated.
+The hornveilchen at the base of the broken flower pots are definitely poking up now. Crocuses in the nearby gardens too. But the yard itself is still winter-quiet: no insects, no green on the deciduous trees, just the evergreens holding their dark depth.
+
+The fog in the early morning gave everything a soft, muffled quality — the Bauwagen half-disappeared in it, the scrap piles were just dark shapes. Then the sun came through and the whole yard sharpened into focus, wet surfaces catching the light.
 
 ---
 
@@ -23,9 +30,11 @@ The cold is real but not brutal. It's the kind of cold where you hunch your shou
 
 - Bare deciduous trees — dark skeletal branches, no leaves
 - Evergreens provide the only dark-green depth in outdoor scenes
-- Sky: mostly overcast or high cloud, pale and flat
-- Ground: cold, dry, no frost but no warmth either
-- Early crocuses or hornveilchen might appear in sheltered corners
+- **Today is unusually bright for March** — clear sky, strong directional light, long shadows in morning and evening
+- Early morning fog gives soft, diffused, mysterious atmosphere — great for atmospheric scenes
+- As fog lifts: wet surfaces glint, dew on metal, condensation on the Bauwagen window
+- Ground: cold, damp from fog, no frost
+- Early crocuses or hornveilchen visible in sheltered corners
 - No insects yet — the bug-and-spider background stories are on pause
-- Light quality: soft and directionless during the day; evenings come early
-- The Schrottplatz feels a little quiet and waiting-for-something
+- Light quality: soft and directionless in foggy dawn; bright and directional once clear
+- The Schrottplatz feels like it is waking up for the first time this year
