@@ -7,7 +7,7 @@
 
 ## Current Season
 
-**Date:** Thursday, 12 March 2026
+**Date:** Thursday, 12 March 2026 (late afternoon, ~5:30 PM)
 **Location:** Rodgau, Germany (Hessen)
 **Season:** Late winter / very early spring
 
@@ -16,14 +16,16 @@
 - Pre-dawn: Partly cloudy, cooling to 7°C, humidity 85%. Wind easing to 9 km/h from the west.
 - Early morning: Clearing rapidly. By 6 AM nearly clear skies, 5°C, humidity 89%, very light WSW breeze (6 km/h). Dew on every surface.
 - Morning: Brilliant sunshine by 9 AM, only 2% cloud cover. 7°C but warming fast in the sun. SW wind picking up gently to 8 km/h.
-- Midday–afternoon: Clouds building again — 62% cover by noon, 75% by 3 PM. 11°C, feels like 10°C. Moderate SW wind at 14 km/h. Patchy rain possible around noon but no real accumulation. Humidity dropping to 54–55%.
-- Evening: Clearing beautifully — 0% cloud by 6 PM. 10°C at sunset, cooling to 7°C by 9 PM. Light SSW breeze.
-- Sunrise: 6:45 AM. Sunset: 6:24 PM. Nearly 11.5 hours of daylight — the days are stretching out noticeably.
-- Moon: Waning crescent, 44% illumination. Moonrise 3:44 AM, moonset 10:36 AM — the moon was a pale ghost in the morning sky.
+- Midday: Clouds built briefly — 75% cover by noon, 11°C, moderate SW wind at 15 km/h. Patchy rain threatened but never arrived.
+- Afternoon: **Dramatic clearing.** By 3 PM only 6% cloud cover, 13°C (feels 12°C), SW wind 16 km/h. Bright, warm sunshine — unusually pleasant for early March.
+- Late afternoon/now: Currently partly cloudy (75% at observation time 5:18 PM) but breaks of clear sky. 13°C, humidity 51%, SW wind 14 km/h. Approaching golden hour.
+- Evening: Clearing to nearly 0% cloud by sunset. 10°C at 6 PM, cooling to 8°C by 9 PM. Light S breeze.
+- Sunrise: 6:45 AM. Sunset: 6:24 PM. Nearly 11.5 hours of daylight — the days are stretching noticeably.
+- Moon: Waning crescent, 44% illumination. Moonrise 3:44 AM, moonset 10:36 AM — the moon was a pale ghost in the morning sky; now gone.
 
-A day of contrasts. The morning broke clear and cold after overnight rain — everything still dripping, metal surfaces beaded with water, the air clean and sharp. Then a beautiful sunny stretch until noon when clouds rolled in from the southwest, teasing with the possibility of rain that never really arrived. By late afternoon the sky is partly cloudy, the air mild for March, and there's a steady southwest wind moving things around — loose tarps flapping, a sheet of corrugated metal humming. The evening promises to be clear and calm.
+A day that kept changing its mind. Started with overnight rain, broke clear and cold at dawn, turned gloriously sunny through the morning, clouded up briefly around noon, then opened up again into a stunning clear afternoon. Now, approaching sunset, the sky is clearing for what promises to be a beautiful evening. The light at 5:30 PM is low, warm-toned, casting long westward shadows across the Schrottplatz. Surfaces that were wet this morning have dried. The air is the mildest it's been all day — 13°C, and with the clearing sky the last hour of sun will paint everything in soft gold-to-silver tones before it dips below the horizon.
 
-The Schrottplatz has that particular early-spring quality where the light is already strong enough to warm metal but the ground is still cold. The bare trees catch the wind. Everything feels transitional — winter losing its grip, spring not quite claiming its territory. The hornveilchen by the broken flower pots are pushing up stubbornly. No leaves on the deciduous trees, but the buds are swelling if you look closely.
+The Schrottplatz in this late-afternoon light looks transformed from the grey morning. Metal surfaces that were dull and wet now catch the low sun and gleam. The bare tree branches create sharp dark lines against a brightening western sky. The ground has dried, but low spots still hold small puddles that mirror the sky. The hornveilchen near the broken flower pots are catching a last beam of sun. There's a feeling of warmth and calm settling over the yard — the wind has eased from the morning's gusts. Everything is drawing in toward evening.
 
 ---
 
@@ -31,14 +33,14 @@ The Schrottplatz has that particular early-spring quality where the light is alr
 
 - Bare deciduous trees — dark skeletal branches, no leaves, but buds beginning to swell
 - Evergreens provide the only deep tonal mass in outdoor scenes
-- **Morning was bright and clear** — strong directional light, long shadows, sharp contrast
-- **Afternoon is partly cloudy** — softer, more diffused light, occasional bright breaks through cloud gaps
-- Wet surfaces from overnight rain and morning dew — metal glints, puddles in low spots
-- Condensation on the Bauwagen window — especially in the morning
-- Ground: cold, damp, no frost. Small puddles where the ground is uneven
-- Early hornveilchen visible in sheltered spots near the Bauwagen
+- **Late afternoon light is the key feature now** — low angle from the WSW, warm tones translated into bright highlights and long shadows in grayscale
+- **Golden hour approaching** — strong directional light, everything side-lit or back-lit, dramatic contrast between lit surfaces and deep shadows
+- Surfaces have dried since morning — metal no longer beaded with water, but still has that clean-washed quality
+- Condensation on the Bauwagen window has mostly dried, only a trace remains in the corners
+- Ground: drying, warmer than this morning. Puddles reduced but still present in the lowest spots
+- Early hornveilchen visible in sheltered spots near the Bauwagen — catching the last sun
 - No insects yet — too early in the season
-- Wind is noticeable today — things that can move are moving slightly (tarps, loose sheets, dust)
-- Light quality: the afternoon has a mixed quality, partly sunny partly soft, good for rendering detailed textures
-- The waning crescent moon was visible in the morning sky — a pale sliver alongside the rising sun
-- The Schrottplatz feels like it is on the threshold of something — still winter-bare but with the first whispers of change
+- Wind has eased compared to midday — 14 km/h, less flapping and rattling
+- Light quality: strong directional late-afternoon sun, excellent for dramatic grayscale rendering — bright highlights, deep shadows, fine detail in textures
+- The warmth of the afternoon (13°C) means Konsti can be relaxed, not puffed up against cold
+- The Schrottplatz has a late-day peacefulness — the wind has settled, the light is generous, the world is winding down toward evening
